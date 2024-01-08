@@ -1,0 +1,27 @@
+header{
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0, 0, 0, 0)), url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    color: #fff;
+    margin-left: 250px;
+    
+}
+.head{
+    font-family:'Merriweather', serif; 
+    
+  font-size: 40px;
+  font-weight: 400px;
+  text-align: center;
+  padding-top: 177px;
+  
+}
+.head-des{
+    width: 632px;
+    font-size: 72px;
+    font-weight: 700;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    
+    
+    margin: 1px 344px 177px 344px;
+}
